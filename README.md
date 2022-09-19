@@ -8,4 +8,4 @@ Created and maintained with ❤️ by [Raiyan](https://github.com/coderboy-raiya
 
 ## Live demo
 
-Check the live demo here 👉️ [Live Preview]("")
+Check the live demo here 👉️ [Live Preview](https://raiyan-tailwind-dashboard-template.vercel.app/)
